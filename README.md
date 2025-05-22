@@ -7,7 +7,7 @@
 ## 📺 Demo
 
 Watch a short video demonstration on YouTube:  
-👉 [https://youtu.be/3U529fbzvpQ](https://youtu.be/3U529fbzvpQ)
+[![Watch the video](https://img.youtube.com/vi/3U529fbzvpQ/0.jpg)](https://youtu.be/3U529fbzvpQ)
 
 ---
 

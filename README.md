@@ -1,16 +1,36 @@
-# myapp
+# 🌤️ MyApp – Flutter Weather App
 
-A new Flutter project.
+**MyApp** is a modern and elegant weather application built with Flutter. It provides real-time weather updates, forecasts, and location-based information with a smooth and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📺 Demo
 
-A few resources to get you started if this is your first Flutter project:
+Watch a short video demonstration on YouTube:  
+👉 [https://youtu.be/3U529fbzvpQ](https://youtu.be/3U529fbzvpQ)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- 🌍 Get weather updates based on current location
+- 🔍 Search weather by city name
+- 🌦️ Real-time temperature, humidity, wind speed, and condition
+- 📅 7-day weather forecast (optional feature)
+- 🎨 Clean and intuitive UI inspired by Google Weather
+- ☁️ Powered by OpenWeatherMap API
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots inside the `assets/screenshots` folder and update these paths)*
+
+| Home Screen | City Search | Forecast View |
+|-------------|-------------|----------------|
+| ![Home](assets/screenshots/home.png) | ![Search](assets/screenshots/search.png) | ![Forecast](assets/screenshots/forecast.png) |
+
+---
+
+## 🧱 Project Structure
+
